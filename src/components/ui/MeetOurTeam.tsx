@@ -26,7 +26,7 @@ interface CustomArrowProps {
 
 const teamMembers: TeamMember[] = [
   {
-    name: "Pankaj Sharma",
+    name: "ABC",
     role: "Full Stack Developer",
     image:
       "https://base.demo.nextjstemplates.com/_next/image?url=%2Fimages%2Fteam%2Fteam-02.png&w=384&q=75",
@@ -39,7 +39,7 @@ const teamMembers: TeamMember[] = [
     ],
   },
   {
-    name: "Happy Sharma",
+    name: "ABC",
     role: "QA Engineer",
     image:
       "https://base.demo.nextjstemplates.com/_next/image?url=%2Fimages%2Fteam%2Fteam-02.png&w=384&q=75",
@@ -52,7 +52,7 @@ const teamMembers: TeamMember[] = [
     ],
   },
   {
-    name: "Sunny Mehra",
+    name: "ABC",
     role: "Angular Developer",
     image:
       "https://base.demo.nextjstemplates.com/_next/image?url=%2Fimages%2Fteam%2Fteam-02.png&w=384&q=75",
@@ -65,7 +65,7 @@ const teamMembers: TeamMember[] = [
     ],
   },
   {
-    name: "Rajat Bhalla",
+    name: "ABC",
     role: "ASP .NET Developer",
     image:
       "https://base.demo.nextjstemplates.com/_next/image?url=%2Fimages%2Fteam%2Fteam-02.png&w=384&q=75",

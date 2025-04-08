@@ -30,11 +30,11 @@ const SubMenuFooter = ({ className, text, href }: SubMenuFooterProps) => {
 
       <div className="flex flex-col md:flex-row md:items-center gap-2 text-sm">
         <Link
-          href="mailto:clientsupport@hackintown.com"
+          href="mailto:clientsupport@elfedge.com"
           className="flex items-center gap-2 text-primary hover:text-primary/80 transition-colors"
         >
           <Mail className="h-4 w-4" />
-          <span>info@hackintown.com</span>
+          <span>info@elfedge.com</span>
         </Link>
 
         <Link

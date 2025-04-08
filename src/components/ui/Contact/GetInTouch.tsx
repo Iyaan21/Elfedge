@@ -151,10 +151,10 @@ export default function ContactSection() {
                     Email Us
                   </h3>
                   <Link
-                    href="mailto:hackintowntech@gmail.com"
+                    href="mailto:elfedge@gmail.com"
                     className="text-muted-foreground hover:text-primary hover:underline transition-colors font-inter font-normal"
                   >
-                    hackintowntech@gmail.com
+                    elfedge@gmail.com
                   </Link>
                 </div>
               </div>

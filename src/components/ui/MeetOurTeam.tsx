@@ -35,7 +35,7 @@ const teamMembers: TeamMember[] = [
     linkedin: "https://www.linkedin.com/in/imprakashchy",
     experience: "4+ years of experience",
     companies: [
-      "https://www.group-ucs.com/assets/images/logo/UCS-LOGO.jpg",
+      "/images/logo-whitebg.png",
     ],
   },
   {
@@ -48,7 +48,7 @@ const teamMembers: TeamMember[] = [
     linkedin: "https://www.linkedin.com/in/imprakashchy",
     experience: "8+ years of experience",
     companies: [
-      "https://www.group-ucs.com/assets/images/logo/UCS-LOGO.jpg",
+      "/images/logo-whitebg.png",
     ],
   },
   {
@@ -61,7 +61,7 @@ const teamMembers: TeamMember[] = [
     linkedin: "https://www.linkedin.com/in/imprakashchy",
     experience: "8+ years of experience",
     companies: [
-      "https://www.group-ucs.com/assets/images/logo/UCS-LOGO.jpg",
+      "/images/logo-whitebg.png",
     ],
   },
   {
@@ -74,7 +74,7 @@ const teamMembers: TeamMember[] = [
     linkedin: "https://www.linkedin.com/in/imprakashchy",
     experience: "8+ years of experience",
     companies: [
-      "https://www.group-ucs.com/assets/images/logo/UCS-LOGO.jpg",
+      "/images/logo-whitebg.png",
     ],
   },
 
